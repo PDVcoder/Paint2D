@@ -1,0 +1,12 @@
+D:\Labs\Курсова робота\Paint2D\Paint2D\bin\Debug\Paint2D.exe.config
+D:\Labs\Курсова робота\Paint2D\Paint2D\bin\Debug\Paint2D.exe
+D:\Labs\Курсова робота\Paint2D\Paint2D\bin\Debug\Paint2D.pdb
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.csprojAssemblyReference.cache
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.Properties.Resources.resources
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.csproj.GenerateResource.cache
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.csproj.CoreCompileInputs.cache
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.exe
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.pdb
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.NewPictureDialog.resources
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.WorkSpace.resources
+D:\Labs\Курсова робота\Paint2D\Paint2D\obj\Debug\Paint2D.SaveDialog.resources

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Paint2D.WorkSpace">
+    <Position X="2.25" Y="2.75" Width="2.75" />
+    <Members>
+      <Field Name="buttonCurrentCollor" Hidden="true" />
+      <Field Name="buttonRigthDraw" Hidden="true" />
+      <Field Name="clearButton" Hidden="true" />
+      <Field Name="colorDialog1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="eraseButton" Hidden="true" />
+      <Field Name="exitToolStripMenuItem" Hidden="true" />
+      <Field Name="fileToolStripMenuItem" Hidden="true" />
+      <Field Name="fracktalCtextBox" Hidden="true" />
+      <Field Name="fracktalCtrackBar1" Hidden="true" />
+      <Field Name="isFractalCheckBox" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="newToolStripMenuItem" Hidden="true" />
+      <Field Name="openImageDialog" Hidden="true" />
+      <Field Name="openToolStripMenuItem" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="pictureToolStripMenuItem" Hidden="true" />
+      <Field Name="saveImageDialog" Hidden="true" />
+      <Field Name="saveToolStripMenuItem" Hidden="true" />
+      <Field Name="toolCurrentPicture" Hidden="true" />
+      <Field Name="toolStrip1" Hidden="true" />
+      <Field Name="toolStrip2" Hidden="true" />
+      <Field Name="toolStripButton1" Hidden="true" />
+      <Field Name="toolStripButton10" Hidden="true" />
+      <Field Name="toolStripButton11" Hidden="true" />
+      <Field Name="toolStripButton12" Hidden="true" />
+      <Field Name="toolStripButton13" Hidden="true" />
+      <Field Name="toolStripButton14" Hidden="true" />
+      <Field Name="toolStripButton15" Hidden="true" />
+      <Field Name="toolStripButton18" Hidden="true" />
+      <Field Name="toolStripButton2" Hidden="true" />
+      <Field Name="toolStripButton3" Hidden="true" />
+      <Field Name="toolStripButton4" Hidden="true" />
+      <Field Name="toolStripButton5" Hidden="true" />
+      <Field Name="toolStripButton6" Hidden="true" />
+      <Field Name="toolStripButton7" Hidden="true" />
+      <Field Name="toolStripButton8" Hidden="true" />
+      <Field Name="toolStripButton9" Hidden="true" />
+      <Field Name="trackBarWidthOfPen" Hidden="true" />
+      <Field Name="widthTextbox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>DRCQAAEBALAkgBIDIGTByl9mC2khABBAoqGAjQEAEEg=</HashCode>
+      <FileName>WorkSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint2D.SaveDialog">
+    <Position X="5.75" Y="6.25" Width="1.75" />
+    <Members>
+      <Field Name="buttonCancel" Hidden="true" />
+      <Field Name="buttonSave" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAADABAACEAAAAAAAIAAAAgAAAAA=</HashCode>
+      <FileName>SaveDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint2D.Fractal">
+    <Position X="5.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAAgAEAAE=</HashCode>
+      <FileName>Fractal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint2D.NewPictureDialog">
+    <Position X="5.5" Y="2.75" Width="2.75" />
+    <Members>
+      <Field Name="buttonCancel" Hidden="true" />
+      <Field Name="buttonCreate" Hidden="true" />
+      <Field Name="comboBoxRes" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="labelEx" Hidden="true" />
+      <Field Name="labelEx1" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+      <Field Name="textBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAADAAQBQAQACQBBACEAAAgBAAEAAAAgAAAAA=</HashCode>
+      <FileName>NewPictureDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
